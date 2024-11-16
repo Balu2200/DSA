@@ -1,1 +1,1 @@
-# Competetive_Programming
+# DataStructures and Algorithms
